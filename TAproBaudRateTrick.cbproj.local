@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.293,D:\User\Dieter\Documents\Embarcadero\Studio\Projekte\Unit6.h=D:\IWOXX\Produkte\ComTest\MainForm.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.293,D:\User\Dieter\Documents\Embarcadero\Studio\Projekte\Unit6.dfm=D:\IWOXX\Produkte\ComTest\MainForm.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.446,D:\IWOXX\Produkte\ComTest\ComWinApi_Test.cbproj=D:\IWOXX\Produkte\TAproBaudRateTrick\TAproBaudRateTrick.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.128,D:\User\Dieter\Documents\Embarcadero\Studio\Projekte\Project7.cbproj=D:\IWOXX\Produkte\ComTest\ComWinApi_Test.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.336,D:\IWOXX\Produkte\ComTest\ComWinApi_TestPCH1.h=D:\IWOXX\Produkte\TAproBaudRateTrick\TAproBaudRateTrickPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.472,=D:\User\Dieter\Documents\Embarcadero\Studio\Projekte\Project7PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.135,D:\User\Dieter\Documents\Embarcadero\Studio\Projekte\Project7PCH1.h=D:\IWOXX\Produkte\ComTest\ComWinApi_TestPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.012,=D:\User\Dieter\Documents\Embarcadero\Studio\Projekte\Unit6.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.061,D:\IWOXX\Produkte\ComTest\Unit1.cpp=D:\IWOXX\Produkte\ComTest\ComPortUtils.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.303,=D:\IWOXX\Produkte\ComTest\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.293,D:\User\Dieter\Documents\Embarcadero\Studio\Projekte\Unit6.cpp=D:\IWOXX\Produkte\ComTest\MainForm.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.061,D:\IWOXX\Produkte\ComTest\Unit1.h=D:\IWOXX\Produkte\ComTest\ComPortUtils.h</Transaction>
+    <Transaction>2019.01.12 17:25:25.589,D:\IWOXX\Produkte\TAproBaudRateTrick\ComPortUtils.h=D:\IWOXX\Produkte\ComTest\ComPortUtils.h</Transaction>
+    <Transaction>2019.01.12 17:25:25.589,D:\IWOXX\Produkte\TAproBaudRateTrick\ComPortUtils.cpp=D:\IWOXX\Produkte\ComTest\ComPortUtils.cpp</Transaction>
+    <Transaction>2019.01.12 17:25:40.857,D:\IWOXX\Produkte\TAproBaudRateTrick\MainForm.h=D:\IWOXX\Produkte\ComTest\MainForm.h</Transaction>
+    <Transaction>2019.01.12 17:25:40.857,D:\IWOXX\Produkte\TAproBaudRateTrick\MainForm.cpp=D:\IWOXX\Produkte\ComTest\MainForm.cpp</Transaction>
+    <Transaction>2019.01.12 17:25:40.857,D:\IWOXX\Produkte\TAproBaudRateTrick\MainForm.dfm=D:\IWOXX\Produkte\ComTest\MainForm.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
